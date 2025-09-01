@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-mergeDebugResources-51:/layout/finde_rec_widget.xml",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/layout/finde_rec_widget.xml"
+    },
+    {
+        "merged": "com.finderec.app-mergeDebugResources-51:/layout/finde_rec_widget.xml",
+        "source": "com.finderec.app-main-54:/layout/finde_rec_widget.xml"
+    }
+]

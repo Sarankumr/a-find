@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990848190745",
+    "project_id": "find-erec-project",
+    "storage_bucket": "find-erec-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990848190745:android:3bcc4e7073c77d233a1d88",
+        "android_client_info": {
+          "package_name": "com.finderec"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoomqpeXiajLM1FoALC56I1hvUs3z9u08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

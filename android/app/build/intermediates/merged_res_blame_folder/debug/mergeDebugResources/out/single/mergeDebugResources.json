@@ -1,0 +1,418 @@
+[
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_individual.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_individual.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_splash_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/splash_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_widget_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/widget_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_patpal_imag.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_patpal_imag.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/xml_filepaths.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/xml/filepaths.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_splash_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/splash_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-v21_app_widget_inner_view_background.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-v21/app_widget_inner_view_background.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_onboarding_ob7.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_onboarding_ob7.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_logo_2x.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_logo_2x.png"
+    },
+    {
+        "merged": "com.finderec.app-debug-52:/layout_finde_rec_widget.xml.flat",
+        "source": "com.finderec.app-main-54:/layout/finde_rec_widget.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_paymenttypes_payment_type.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_paymenttypes_payment_type.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_circle_pattern.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_circle_pattern.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_splash_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/splash_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnavigation_drawer_lib_module_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnavigation_drawer_lib_module_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_splash_logoo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/splash_logoo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_button_border_black.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/button_border_black.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_icons_checkcircle.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_icons_checkcircle.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-hdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_onboarding_ob1.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_onboarding_ob1.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_ob3.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/ob3.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-ldpi_splash_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-ldpi/splash_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_widget_background.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/widget_background.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_backiconmask.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_icons_plan.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_icons_plan.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_ic_qr_code.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/ic_qr_code.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_splash_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/splash_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_close.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_close.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_customer.jpg.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_customer.jpg"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-hdpi_screen.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-hdpi/screen.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_share_button_continer.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/share_button_continer.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnavigation_drawer_lib_module_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnavigation_drawer_lib_module_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativepaper_src_assets_backchevron.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativepaper_src_assets_backchevron.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativeelementdropdown_src_assets_down.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativeelementdropdown_src_assets_down.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_onboarding_ob3.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_onboarding_ob3.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/xml_finde_rec_widget_info.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/xml/finde_rec_widget_info.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_member_login_button.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/member_login_button.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_paypal.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_paypal.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_onboarding_ob4.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_onboarding_ob4.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_joingroup.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_joingroup.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-v21_app_widget_background.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-v21/app_widget_background.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/xml_file_paths.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_ic_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/ic_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_frame.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_frame.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-hdpi/node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-hdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_lib_module_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_lib_module_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_splash_logo.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/splash_logo.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-nodpi_example_appwidget_preview.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-nodpi/example_appwidget_preview.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/xml_network_security_config.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnavigation_drawer_lib_module_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnavigation_drawer_lib_module_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable_splash_screen.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/layout_finde_rec_widget.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/layout/finde_rec_widget.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/xml_provider_paths.xml.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_src_assets_images_onboarding_ob2.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/src_assets_images_onboarding_ob2.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-mdpi/node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xxhdpi/node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-debug-52:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "/Users/saranj/.gradle/daemon/8.10.2/com.finderec.app-main-54:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    }
+]

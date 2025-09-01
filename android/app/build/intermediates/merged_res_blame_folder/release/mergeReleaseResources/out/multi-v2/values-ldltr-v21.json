@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.finderec.app-mergeReleaseResources-51:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/saranj/.gradle/caches/8.10.2/transforms/a0c4e1e320c602885cc576d777e78fa2/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

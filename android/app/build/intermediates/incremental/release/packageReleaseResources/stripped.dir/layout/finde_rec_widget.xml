@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:resizeMode="none"
+    android:background="@drawable/widget_background">
+ 
+    <!-- LOGGED-IN UI -->
+    <RelativeLayout
+        android:id="@+id/logged_in_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:visibility="gone">
+ 
+        <!-- QR Code -->
+        <!-- <ImageView -->
+        <ImageView
+            android:id="@+id/widget_qr_code"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_qr_code"
+            android:contentDescription="QR Code"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true" />
+         <!-- <ImageView
+            android:id="@+id/widget_qr_code"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="0.35"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:src="@drawable/ic_qr_code"
+            android:contentDescription="QR Code"
+            android:layout_marginEnd="8dp" /> -->
+ 
+        <!-- Logo & Website -->
+        <LinearLayout
+            android:id="@+id/logo_section"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/widget_qr_code"
+            android:layout_toEndOf="@id/widget_qr_code"
+            android:layout_marginStart="12dp">
+ 
+            <ImageView
+                android:id="@+id/widget_logo"
+                android:layout_width="45dp"
+                android:layout_height="25dp"
+                android:src="@drawable/widget_logo"
+                android:contentDescription="Logo"
+                android:layout_marginEnd="4dp" />
+ 
+            <TextView
+                android:id="@+id/widget_website"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="findeREC.com"
+                android:textColor="#992835"
+                android:textSize="14sp"
+                android:clickable="true"
+                android:focusable="true"
+                android:fontFamily="sans-serif-medium"
+                android:layout_gravity="center_vertical" />
+        </LinearLayout>
+ 
+        <!-- User Info -->
+        <LinearLayout
+            android:id="@+id/user_info_section"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/logo_section"
+            android:layout_alignStart="@id/logo_section"
+            android:layout_marginTop="5dp">
+ 
+            <TextView
+                android:id="@+id/widget_user_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="User Name"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:layout_marginLeft="5dp"
+                android:textSize="16sp" />
+ 
+            <TextView
+                android:id="@+id/widget_member_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Member ID - N/A"
+                android:textColor="#000"
+                android:layout_marginLeft="5dp"
+                android:textSize="14sp" />
+        </LinearLayout>
+ 
+        <!-- Buttons -->
+        <LinearLayout
+            android:id="@+id/buttons_section"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/user_info_section"
+            android:layout_alignStart="@id/user_info_section"
+            android:layout_marginTop="6dp">
+ 
+        <Button
+            android:id="@+id/btn_share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Share my eREC"
+            android:background="@drawable/share_button_continer"
+            android:textColor="@android:color/white"
+            android:minHeight="0dp"
+            android:minWidth="0dp"
+            android:layout_marginRight="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="6dp"
+            android:paddingBottom="6dp"
+            android:textAllCaps="false"
+            android:textSize="14sp" />
+ 
+            <Button
+                android:id="@+id/btn_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="View"
+                android:background="@drawable/button_border_black"
+                android:textColor="@android:color/black"
+                android:minHeight="0dp"
+                android:minWidth="0dp"
+                android:padding="4dp"
+                android:paddingStart="10dp"
+                android:paddingEnd="10dp"
+                android:textAllCaps="false"
+                android:textSize="14sp" />
+ 
+        </LinearLayout>
+    </RelativeLayout>
+ 
+    <!-- LOGGED-OUT UI -->
+    <RelativeLayout
+        android:id="@+id/logged_out_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:padding="12dp">
+ 
+        <!-- QR Code -->
+        <ImageView
+            android:id="@+id/logged_out_qr_code"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/ic_qr_code"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true" />
+             <!-- <ImageView
+                android:id="@+id/logged_out_qr_code"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="0.35"
+                android:adjustViewBounds="true"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_qr_code" /> -->
+ 
+        <!-- Logo + Info + Login Button -->
+        <LinearLayout
+            android:id="@+id/logged_out_info_section"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@id/logged_out_qr_code"
+            android:layout_marginStart="12dp"
+            android:layout_centerVertical="true">
+ 
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="4dp">
+ 
+                <ImageView
+                    android:id="@+id/widget_logged_out_logo"
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:src="@drawable/widget_logo"
+                    android:layout_marginEnd="4dp" />
+ 
+                <TextView
+                    android:id="@+id/widget_logged_out_website"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="findeREC.com"
+                    android:textColor="#992835"
+                    android:textSize="14sp" />
+            </LinearLayout>
+ 
+            <TextView
+                android:id="@+id/widget_login_required"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="You must be logged in as a member to use this widget."
+                android:textColor="#000"
+                android:textSize="14sp"
+                android:fontFamily="sans-serif-medium"
+                android:layout_marginBottom="8dp" />
+ 
+            <Button
+                android:id="@+id/btn_login"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"  
+                android:text="Login"
+                android:background="@drawable/member_login_button"
+                android:textColor="@android:color/white"
+                android:textSize="13sp"
+                android:paddingVertical="5dp"
+                android:textAllCaps="false"
+                android:layout_marginTop="5dp"
+            />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

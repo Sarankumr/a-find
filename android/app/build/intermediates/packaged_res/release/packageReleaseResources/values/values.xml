@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_blue_200">#FF81D4FA</color>
+    <color name="light_blue_50">#FFE1F5FE</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="qr_code_size">120dp</dimen>
+    <dimen name="widget_margin">0dp</dimen>
+    <dimen name="widget_padding">12dp</dimen>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <string name="add_widget">Add widget</string>
+    <string name="app_name">findeREC</string>
+    <string name="app_widget_description">In urgent situations, this widget provides quick access to your emergency contacts—simply scan the eREC ID QR Code shown on your phone’s locked screen</string>
+    <string name="appwidget_text">Welcome to findeREC!</string>
+    <string name="gcm_defaultSenderId" translatable="false">990848190745</string>
+    <string name="google_api_key" translatable="false">AIzaSyAoomqpeXiajLM1FoALC56I1hvUs3z9u08</string>
+    <string name="google_app_id" translatable="false">1:990848190745:android:3bcc4e7073c77d233a1d88</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAoomqpeXiajLM1FoALC56I1hvUs3z9u08</string>
+    <string name="google_storage_bucket" translatable="false">find-erec-project.firebasestorage.app</string>
+    <string name="project_id" translatable="false">find-erec-project</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+    <style name="AppTheme.AppWidgetContainer" parent="AppTheme.AppWidgetContainerParent">
+        
+        <item name="appWidgetPadding">16dp</item>
+    </style>
+    <style name="AppTheme.AppWidgetContainerParent" parent="@android:style/Theme.DeviceDefault">
+        
+        <item name="appWidgetRadius">16dp</item>
+        
+        <item name="appWidgetInnerRadius">8dp</item>
+    </style>
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+    <style name="Widget.FindErec.AppWidget.Container" parent="android:Widget">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:background">?android:attr/colorBackground</item>
+    </style>
+    <style name="Widget.FindErec.AppWidget.InnerView" parent="android:Widget">
+        <item name="android:background">?android:attr/colorBackground</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+    </style>
+    <declare-styleable name="AppWidgetAttrs">
+        <attr format="dimension" name="appWidgetPadding"/>
+        <attr format="dimension" name="appWidgetInnerRadius"/>
+        <attr format="dimension" name="appWidgetRadius"/>
+    </declare-styleable>
+</resources>
